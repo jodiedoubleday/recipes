@@ -1,4 +1,4 @@
-![Pulled Pork](https://github.com/jodiedoubleday/recipes/assets/images/beef-stew.png)
+![Pulled Pork](/assets/images/beef-stew.jpg)
 
 # Beef and Ale Stew with Horseradish Dumplings
 *Cooked overnight in a slow cooker*
