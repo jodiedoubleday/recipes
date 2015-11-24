@@ -1,4 +1,4 @@
-<img src="/assets/images/pulled-pork.jpg" alt="Pulled Pork" width="30%"/>
+<img src="/assets/images/pulled-pork.jpg" alt="Pulled Pork" />
 
 
 # Pulled Pork with Low Fat mustard coleslaw
