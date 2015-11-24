@@ -1,4 +1,5 @@
-![Pulled Pork](https://github.com/jodiedoubleday/recipes/assets/images/pulled-pork.png)
+<img src="/assets/images/pulled-pork.jpg" alt="Pulled Pork" width="30%"/>
+
 
 # Pulled Pork with Low Fat mustard coleslaw
 *Cooked overnight in a slow cooker*
