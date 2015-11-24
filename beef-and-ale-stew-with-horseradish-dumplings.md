@@ -1,4 +1,4 @@
-![Pulled Pork](/assets/images/beef-stew.jpg =25%)
+<img src="/assets/images/beef-stew.jpg" alt="Beef Stew" width="25%"/>
 
 # Beef and Ale Stew with Horseradish Dumplings
 *Cooked overnight in a slow cooker*
@@ -43,6 +43,7 @@
 1. If the liquid is still too thin, leave the lid off the slow cooker until thickened.
 1. Serve in a bowl with a small dollop of horse raddish on the side and a sprinkling of flat leaf parsely to garnish.
 
-![Pulled Pork](/assets/images/beef-stew-cooking.png =25%)
+<img src="/assets/images/beef-stew-cooking.jpg" alt="Beef Stew Cooking" width="25%"/>
+
 
 
